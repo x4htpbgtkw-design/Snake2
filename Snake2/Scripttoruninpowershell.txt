@@ -1,0 +1,3 @@
+cd "C:\Users\jayjo\OneDrive\Python\Snake2"
+& "C:\Users\jayjo\AppData\Local\Programs\Thonny\Scripts\pyinstaller.exe" --onefile --windowed --icon="icon.ico" Snake2.py
+
